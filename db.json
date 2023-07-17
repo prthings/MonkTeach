@@ -1,0 +1,44 @@
+{
+  "posts": [
+    {
+      "CourseName": "React.js",
+      "TrainerName": "Rahul & Danish",
+      "id": 2
+    },
+    {
+      "CourseName": "Web",
+      "TrainerName": "Rahul Madhi",
+      "id": 3
+    },
+    {
+      "CourseName": "Sql",
+      "TrainerName": "Rajshekar",
+      "id": 4
+    },
+    {
+      "CourseName": "Java Fullstack",
+      "TrainerName": "Shankar Narayana",
+      "id": 5
+    },
+    {
+      "CourseName": "JDBC",
+      "TrainerName": "Sridhar R",
+      "id": 6
+    },
+    {
+      "CourseName": "MYSQL",
+      "TrainerName": "Shashank",
+      "id": 7
+    },
+    {
+      "CourseName": "Devops",
+      "TrainerName": "Akshay Sir",
+      "id": 8
+    },
+    {
+      "CourseName": "Java Junior Developer",
+      "TrainerName": "Girisha C D",
+      "id": 9
+    }
+  ]
+}

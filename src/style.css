@@ -1,0 +1,9 @@
+fieldset{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 40vh;
+    flex-direction: column;
+    margin: 7px;
+    text-align: left;
+}
